@@ -8,7 +8,7 @@ The first of many late night coding projects & tutorials.
 
 **Screenshot**
 
-
+![](ravenDemo.png)
 
 [Live Demo](https://responsiveSignupForm--theamazinraven.repl.co)
 
